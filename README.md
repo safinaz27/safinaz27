@@ -1,72 +1,115 @@
-<div align="center">
-  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTRnd290bnpubmZ4dnFodmlrc3F5c3pvaTdnbTNtNTBhZzJvdDI3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  />
-</div>
-
-###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="37" height="25" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTRnd290bnpubmZ4dnFodmlrc3F5c3pvaTdnbTNtNTBhZzJvdDI3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" height="150" />
+
+# Hi, I'm Safinaz Ahmed 👋
+
+### Software Engineer | Generative AI Engineer
+
+Building backend systems and AI-powered applications.
+
+<p>
+  <a href="https://www.linkedin.com/in/safinaz-ahmed-a1aab2252/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:safinazahmed28@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Safinaz27">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
 </div>
 
-###
+---
 
-<h1 align="center">Safinaz Ahmed</h1>
+## 👩‍💻 About Me
 
-###
+I'm a Computer Science graduate and a Master's student in Computer Science, passionate about building reliable software systems and intelligent applications.
 
-<h3 align="center">AI / ML Engineer</h3>
+- 💻 Focused on **Software Engineering, Backend Development, and AI Integration**.
+- 🤖 Building LLM-powered applications using **RAG and Agentic AI**.
+- ⚙️ Experienced in designing REST APIs, backend workflows, and data-driven applications.
+- 🧠 Exploring AI agents, system architecture, and scalable application development.
+- 🚀 Interested in turning complex ideas into practical software solutions.
 
-###
+---
 
-<h3 align="left">👩‍💻  About Me</h3>
+## 🛠️ Tech Stack
 
-###
+**Programming Languages**
 
-<p align="left">I'm Safinaz from Egypt<br><br>- 🔭 I’m working as freelancer<br>- 📚 I'm currently learning AI<br>- ⚡ In my free time I code</p>
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,cs,sql" />
+</p>
 
-###
+**Backend & Development**
 
-<h3 align="left">🛠 Language and tools</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,laravel,docker,git,github,linux" />
+</p>
 
-###
+**Generative AI & Machine Learning**
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+</p>
 
-###
+- LangChain & LangGraph
+- Retrieval-Augmented Generation (RAG)
+- Large Language Models (LLMs)
+- AI Agents & Workflow Orchestration
+- Prompt Engineering & Guardrails
+- Vector Databases
 
-<h3 align="left">🔥   My Stats :</h3>
+**Databases & Data Engineering**
 
-###
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,azure" />
+</p>
+
+- ETL Pipelines
+- SQL Server & SSIS
+- Azure Data Factory
+- Data Processing & Integration
+
+**Tools**
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,jupyter,anaconda,postman" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 ResearchMate
+**AI-Powered Research Assistant**
+
+- Developing a document-based question-answering system using RAG.
+- Working with document processing, embeddings, vector search, and LLM integration.
+- Building backend APIs with FastAPI.
+
+### 🧠 Sirius – Intelligent Planning Assistant
+**Generative AI & Agent Engineering**
+
+- Built AI agent workflows to transform project ideas into structured software plans.
+- Worked on multi-agent orchestration, guardrails, and conversational workflows.
+- Generated software engineering artifacts such as requirements, user stories, and diagrams.
+
+### ✋ Sign Language Digits Prediction
+**Python | TensorFlow | CNN | OpenCV**
+
+- Trained a CNN model to recognize sign language digits with 93.18% accuracy.
+- Developed a real-time prediction system using OpenCV.
+
+---
+
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Safinaz27&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+
+### 💡 Always learning. Always building.
+
 </div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Safinaz27&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Safinaz27&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
